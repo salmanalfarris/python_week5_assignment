@@ -1,0 +1,6 @@
+This is the first line of text.
+1913
+This is the third line with a number: 3689.
+This is an appended line.
+3151
+Final appended line with text and number: 6176.
